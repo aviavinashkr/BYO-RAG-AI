@@ -1,0 +1,11 @@
+My name is Avi.
+I'm currently learning about cloud computing with AI and DevOps.
+
+My career goal is to become a DevOps engineer, cloud architect, AI engineer.
+I'm especially interested in automation, infrastructure as code, machine learning.
+
+I have experience with e.g., Python, Azure, AWS, Docker & kubernetes.
+I'm currently building projects on RAG-AI to grow my hands-on skills.
+
+For fun, I enjoy e.g., hiking, playing guitar, reading sci-fi novels.
+A fun fact about me is e.g., I once ran a marathon, I can solve a Rubik's cube in under a minute.
