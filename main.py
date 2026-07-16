@@ -48,7 +48,7 @@ Question: {question}"""
 
     # Return the answer along with the context so users can verify the source
     return {
-        'question': question,
-        'answer': response['message']['content'],
-        'context_used': results['documents'][0],
+        "question": question,
+        "answer": response["message"]["content"],
+        "context_used": results["documents"][0],
     }
